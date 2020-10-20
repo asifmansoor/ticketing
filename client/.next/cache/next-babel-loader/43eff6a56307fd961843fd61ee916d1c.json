@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (function () {\n  return '<H1>Banana</H1>';\n});","map":{"version":3,"sources":["D:/Work/DockerHub/ticketing/client/pages/banana.js"],"names":[],"mappings":"AAAA,gBAAe,YAAM;AACnB,SAAO,iBAAP;AACD,CAFD","sourcesContent":["export default () => {\r\n  return '<H1>Banana</H1>';\r\n};\r\n"]},"metadata":{},"sourceType":"module"}

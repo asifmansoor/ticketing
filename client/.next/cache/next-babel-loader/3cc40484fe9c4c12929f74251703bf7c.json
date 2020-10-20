@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (() => {\n  return '<H1>Landing</H1>';\n});","map":{"version":3,"sources":["D:/Work/DockerHub/ticketing/client/pages/index.js"],"names":[],"mappings":"AAAA,gBAAe,MAAM;AACnB,SAAO,kBAAP;AACD,CAFD","sourcesContent":["export default () => {\r\n  return '<H1>Landing</H1>';\r\n};\r\n"]},"metadata":{},"sourceType":"module"}
